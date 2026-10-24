@@ -1,6 +1,6 @@
-# GeoVolt — Smart Task Management Platform
+# OnTime — Smart Task Management Platform
 
-GeoVolt is a cross-platform Flutter application that provides a modern task management experience backed by Firebase services. The application combines secure authentication, cloud synchronization, and an intuitive user interface to help users efficiently organize and manage their daily tasks.
+OnTime is a cross-platform Flutter application that provides a modern task management experience backed by Firebase services. The application combines secure authentication, cloud synchronization, and an intuitive user interface to help users efficiently organize and manage their daily tasks.
 
 The project demonstrates the integration of Flutter with Firebase Authentication, Cloud Firestore, and Firebase Storage while following a modular and scalable application architecture.
 
