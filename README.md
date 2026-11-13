@@ -112,7 +112,7 @@ Cloud Synchronization
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/GeoVolt.git
+git clone https://github.com/<sakshibansal73>/OnTime.git
 ```
 
 ### Install Dependencies
