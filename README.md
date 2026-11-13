@@ -8,7 +8,7 @@ The project demonstrates the integration of Flutter with Firebase Authentication
 
 ## Overview
 
-GeoVolt is designed as a cloud-enabled productivity application that enables users to securely manage personal tasks from any device. By leveraging Firebase as the backend infrastructure, the application provides real-time synchronization, authentication, and persistent cloud storage.
+OnTime is designed as a cloud-enabled productivity application that enables users to securely manage personal tasks from any device. By leveraging Firebase as the backend infrastructure, the application provides real-time synchronization, authentication, and persistent cloud storage.
 
 The project follows Flutter's widget-based architecture, allowing reusable UI components, simplified maintenance, and future scalability.
 
@@ -30,7 +30,7 @@ The project follows Flutter's widget-based architecture, allowing reusable UI co
 ## Repository Structure
 
 ```text
-GeoVolt/
+OnTime/
 ├── android/
 ├── ios/
 ├── lib/
